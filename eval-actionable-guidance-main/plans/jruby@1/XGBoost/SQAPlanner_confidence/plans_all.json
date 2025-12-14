@@ -1,0 +1,435 @@
+{
+    "210": {
+        "CountClassCoupled": [
+            3,
+            2
+        ]
+    },
+    "256": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1,
+            0
+        ]
+    },
+    "270": {
+        "MAJOR_LINE": [
+            0
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "468": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "CountDeclMethodPrivate": [
+            0
+        ]
+    },
+    "474": {
+        "CountDeclInstanceMethod": [
+            3,
+            2,
+            1,
+            0
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "477": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "MAJOR_LINE": [
+            0
+        ]
+    },
+    "496": {
+        "MaxNesting_Mean": [
+            0.0
+        ],
+        "CountDeclClassVariable": [
+            0
+        ]
+    },
+    "515": {
+        "CountDeclInstanceVariable": [
+            0
+        ],
+        "MAJOR_LINE": [
+            0
+        ]
+    },
+    "520": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "522": {
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "539": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1,
+            0
+        ]
+    },
+    "547": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "Del_lines": [
+            0
+        ]
+    },
+    "551": {
+        "CountDeclInstanceMethod": [
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "CountDeclMethodPrivate": [
+            0
+        ]
+    },
+    "552": {
+        "PercentLackOfCohesion": [
+            0
+        ]
+    },
+    "553": {
+        "MAJOR_LINE": [
+            0
+        ]
+    },
+    "567": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1036": {
+        "CountDeclInstanceMethod": [
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+        ]
+    },
+    "592": {
+        "CountDeclInstanceMethod": [
+            2,
+            1,
+            0
+        ]
+    },
+    "602": {
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "603": {
+        "MaxNesting_Mean": [
+            0.0
+        ],
+        "CountDeclMethodPrivate": [
+            0
+        ]
+    },
+    "625": {
+        "CountInput_Mean": [
+            1.346666666666665,
+            1.292857142857145,
+            1.25,
+            1.14285714285714,
+            1.0,
+            0.75,
+            0.6,
+            0.454545454545455,
+            0.285714285714286,
+            0.166666666666667
+        ]
+    },
+    "635": {
+        "MINOR_LINE": [
+            1
+        ],
+        "CountDeclMethodPrivate": [
+            0
+        ]
+    },
+    "637": {
+        "MAJOR_LINE": [
+            0
+        ]
+    },
+    "638": {
+        "MAJOR_LINE": [
+            0
+        ],
+        "Del_lines": [
+            2,
+            0
+        ]
+    },
+    "640": {
+        "CountClassCoupled": [
+            5,
+            4,
+            3,
+            2
+        ]
+    },
+    "643": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "649": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "652": {
+        "MAJOR_LINE": [
+            0
+        ],
+        "CountDeclClass": [
+            1
+        ]
+    },
+    "653": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "656": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "657": {
+        "MINOR_LINE": [
+            1
+        ],
+        "CountDeclClass": [
+            1
+        ]
+    },
+    "659": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1
+        ]
+    },
+    "660": {
+        "CountClassCoupled": [
+            5,
+            4,
+            3,
+            2
+        ]
+    },
+    "662": {
+        "CountInput_Mean": [
+            1.41176470588235,
+            1.36,
+            1.28571428571429,
+            1.2,
+            1.08333333333333,
+            0.9,
+            0.666666666666667,
+            0.571428571428571,
+            0.34666666666666646,
+            0.19444444444444448
+        ],
+        "CountDeclMethodPrivate": [
+            0
+        ]
+    },
+    "665": {
+        "CountInput_Mean": [
+            1.683333333333335,
+            1.585714285714285,
+            1.51470588235294,
+            1.41421568627451,
+            1.346666666666665,
+            1.25,
+            1.02564102564103,
+            0.666666666666667,
+            0.454545454545455,
+            0.222222222222222
+        ]
+    },
+    "667": {
+        "MAJOR_LINE": [
+            0
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "668": {
+        "CountDeclInstanceMethod": [
+            2,
+            1,
+            0
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "669": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "CountDeclMethodPrivate": [
+            0
+        ]
+    },
+    "680": {
+        "MaxNesting_Mean": [
+            0.166666666666667,
+            0.157894736842105,
+            0.148148148148148,
+            0.1375,
+            0.118421052631579,
+            0.106382978723404,
+            0.0967741935483871,
+            0.0789473684210526,
+            0.055,
+            0.0263157894736842
+        ],
+        "CountDeclClassVariable": [
+            0
+        ]
+    },
+    "685": {
+        "CountOutput_Mean": [
+            2.231646825396825,
+            2.154761904761905,
+            2.034920634920635,
+            1.9330357142857149,
+            1.8803571428571448,
+            1.8397435897435899,
+            1.759615384615385,
+            1.68421052631579,
+            1.5,
+            1.3
+        ]
+    },
+    "689": {
+        "MAJOR_LINE": [
+            0
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "692": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "696": {
+        "CountInput_Mean": [
+            1.0,
+            0.9,
+            0.833333333333333,
+            0.7083333333333335,
+            0.6125,
+            0.5357142857142855,
+            0.40727272727272745,
+            0.3095238095238095,
+            0.24691358024691348,
+            0.0833333333333335
+        ]
+    },
+    "702": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "CountDeclMethodPrivate": [
+            0
+        ]
+    },
+    "778": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "817": {
+        "CountDeclInstanceMethod": [
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "CountDeclMethodDefault": [
+            0
+        ]
+    },
+    "823": {
+        "CountDeclInstanceMethod": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    },
+    "853": {
+        "MAJOR_LINE": [
+            0
+        ],
+        "CountDeclClassMethod": [
+            0
+        ]
+    }
+}

@@ -1,0 +1,541 @@
+{
+    "2122": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "101": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "132": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "136": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "147": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "148": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "153": {
+        "RatioCommentToCode": [
+            1.85,
+            2.08,
+            2.34,
+            2.6950000000000003,
+            3.09,
+            3.535,
+            3.925,
+            4.535,
+            5.24,
+            6.3
+        ]
+    },
+    "181": {
+        "CountDeclMethodPublic": [
+            1,
+            0
+        ]
+    },
+    "193": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "199": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "203": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "204": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "205": {
+        "PercentLackOfCohesion": [
+            1,
+            0
+        ]
+    },
+    "215": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "218": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "255": {
+        "RatioCommentToCode": [
+            1.185,
+            1.2650000000000001,
+            1.3450000000000002,
+            1.4249999999999998,
+            1.525,
+            1.6,
+            1.7,
+            1.79,
+            1.87,
+            1.95
+        ]
+    },
+    "271": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "272": {
+        "CountDeclMethodPublic": [
+            3,
+            2,
+            1
+        ]
+    },
+    "279": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "286": {
+        "CountClassCoupled": [
+            2,
+            1
+        ]
+    },
+    "287": {
+        "CountClassCoupled": [
+            2,
+            1
+        ]
+    },
+    "2154": {
+        "RatioCommentToCode": [
+            1.79,
+            1.96,
+            2.25,
+            2.62,
+            2.92,
+            3.43,
+            3.88,
+            4.5,
+            5.24,
+            6.3
+        ]
+    },
+    "303": {
+        "RatioCommentToCode": [
+            2.1,
+            2.34,
+            2.68,
+            3.0,
+            3.4,
+            3.815,
+            4.225,
+            4.73,
+            5.3100000000000005,
+            6.375
+        ]
+    },
+    "312": {
+        "AvgCyclomaticModified": [
+            1
+        ]
+    },
+    "551": {
+        "RatioCommentToCode": [
+            1.875,
+            2.0949999999999998,
+            2.3499999999999996,
+            2.6950000000000003,
+            3.09,
+            3.535,
+            3.925,
+            4.535,
+            5.24,
+            6.3
+        ]
+    },
+    "2171": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "901": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "1037": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "75": {
+        "PercentLackOfCohesion": [
+            36.0,
+            33.5,
+            30.5,
+            27.5,
+            25.5,
+            20.5,
+            17.0,
+            13.5,
+            11.5,
+            9.0
+        ]
+    },
+    "77": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "82": {
+        "PercentLackOfCohesion": [
+            22.0,
+            19.0,
+            18.0,
+            16.0,
+            14.0,
+            13.0,
+            12.0,
+            11.0,
+            10.0,
+            7.5
+        ]
+    },
+    "92": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "2190": {
+        "RatioCommentToCode": [
+            1.04,
+            1.11,
+            1.18,
+            1.25,
+            1.32,
+            1.39,
+            1.46,
+            1.55,
+            1.63,
+            1.705
+        ]
+    },
+    "328": {
+        "RatioCommentToCode": [
+            1.9249999999999998,
+            2.1399999999999997,
+            2.52,
+            2.795,
+            3.165,
+            3.645,
+            4.14,
+            4.62,
+            5.27,
+            6.35
+        ]
+    },
+    "816": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "941": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "2201": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1004": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1047": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "1066": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "835": {
+        "CountClassCoupled": [
+            2,
+            1
+        ]
+    },
+    "849": {
+        "CountClassCoupled": [
+            1
+        ]
+    },
+    "852": {
+        "CountDeclMethodPublic": [
+            5,
+            4
+        ]
+    },
+    "853": {
+        "PercentLackOfCohesion": [
+            1,
+            0
+        ]
+    },
+    "856": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "858": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "2254": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "885": {
+        "RatioCommentToCode": [
+            1.9249999999999998,
+            2.1399999999999997,
+            2.52,
+            2.795,
+            3.165,
+            3.645,
+            4.14,
+            4.62,
+            5.27,
+            6.35
+        ]
+    },
+    "2282": {
+        "CountInput_Mean": [
+            1.1055555555555552,
+            1.05048076923077,
+            0.923076923076923,
+            0.857142857142857,
+            0.75,
+            0.6,
+            0.480769230769231,
+            0.333333333333333,
+            0.185185185185185,
+            0.111111111111111
+        ]
+    },
+    "886": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "2283": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "2289": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "2290": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "887": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "2293": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "2311": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1882": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1925": {
+        "PercentLackOfCohesion": [
+            34.0,
+            32.0,
+            29.0,
+            26.5,
+            23.5,
+            18.5,
+            15.0,
+            12.5,
+            10.5,
+            7.5
+        ]
+    },
+    "980": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "990": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "2357": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1645": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "1137": {
+        "CountClassCoupled": [
+            1
+        ]
+    },
+    "1142": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "1161": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "1167": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1201": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "2437": {
+        "RatioCommentToCode": [
+            1.125,
+            1.205,
+            1.2850000000000001,
+            1.3650000000000002,
+            1.4449999999999998,
+            1.545,
+            1.645,
+            1.745,
+            1.84,
+            1.93
+        ]
+    },
+    "1212": {
+        "CountClassBase": [
+            0
+        ]
+    },
+    "1282": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1610": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "2547": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "2548": {
+        "RatioCommentToCode": [
+            0.68,
+            0.73,
+            0.775,
+            0.815,
+            0.855,
+            0.9,
+            0.945,
+            0.985,
+            1.025,
+            1.065
+        ],
+        "CountDeclMethodDefault": [
+            0
+        ]
+    },
+    "2591": {
+        "RatioCommentToCode": [
+            1.78,
+            1.95,
+            2.22,
+            2.6,
+            2.9,
+            3.4,
+            3.86,
+            4.47,
+            5.23,
+            6.3
+        ]
+    },
+    "1692": {
+        "CountDeclMethodPublic": [
+            0
+        ]
+    },
+    "2004": {
+        "CountDeclMethodPublic": [
+            3,
+            2
+        ]
+    },
+    "2013": {
+        "CountDeclInstanceVariable": [
+            0
+        ]
+    },
+    "2015": {
+        "CountClassBase": [
+            0
+        ]
+    }
+}

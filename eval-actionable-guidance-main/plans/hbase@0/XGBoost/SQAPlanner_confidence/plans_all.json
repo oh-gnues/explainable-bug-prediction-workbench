@@ -1,0 +1,697 @@
+{
+    "42": {
+        "CountOutput_Mean": [
+            2.82352941176471,
+            2.66666666666667,
+            2.46153846153846,
+            2.3,
+            2.1790780141844,
+            1.801948051948055,
+            1.48076923076923,
+            1.1125,
+            0.71780303030303,
+            0.2916666666666665
+        ]
+    },
+    "52": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "63": {
+        "RatioCommentToCode": [
+            3.125,
+            2.675,
+            3.525,
+            2.36,
+            2.165,
+            3.99,
+            4.805,
+            5.55,
+            7.470000000000001,
+            32.0
+        ],
+        "CountDeclMethodDefault": [
+            0
+        ]
+    },
+    "64": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "65": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "73": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "79": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "95": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "247": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1125": {
+        "CountOutput_Mean": [
+            1.5625,
+            1.44444444444444,
+            1.348484848484845,
+            1.1339285714285698,
+            0.9444444444444444,
+            0.7846153846153845,
+            0.6928763440860215,
+            0.4625,
+            0.3405797101449275,
+            0.0786290322580645
+        ]
+    },
+    "1126": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1127": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "500": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "701": {
+        "CountOutput_Mean": [
+            3.016666666666665,
+            2.89583333333333,
+            2.80746705710102,
+            2.7,
+            2.54166666666667,
+            2.42424242424242,
+            2.26315789473684,
+            2.19148936170213,
+            1.88732394366197,
+            1.72727272727273
+        ],
+        "CountClassDerived": [
+            0
+        ]
+    },
+    "175": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1189": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "43": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1363": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "125": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "218": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "299": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "310": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "321": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1397": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "328": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "331": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "339": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "342": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "350": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "359": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1419": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1420": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "360": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1437": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "411": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1444": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "412": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1445": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "425": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "465": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "467": {
+        "RatioCommentToCode": [
+            2.1900000000000004,
+            2.42,
+            2.705,
+            3.1799999999999997,
+            3.61,
+            4.195,
+            4.9399999999999995,
+            5.95,
+            7.5,
+            32.0
+        ],
+        "CountDeclMethodDefault": [
+            0
+        ]
+    },
+    "470": {
+        "PercentLackOfCohesion": [
+            19,
+            16,
+            14,
+            13,
+            6,
+            0
+        ]
+    },
+    "1467": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "476": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "479": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "494": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "5": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1485": {
+        "Del_lines": [
+            0
+        ]
+    },
+    "589": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "640": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "647": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1498": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "710": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "714": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "717": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1510": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "719": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "721": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1513": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "726": {
+        "CountClassCoupled": [
+            3,
+            2,
+            1
+        ]
+    },
+    "1516": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1519": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "749": {
+        "CountClassDerived": [
+            3.0,
+            6.0,
+            8.5,
+            10.5,
+            12.5,
+            16.0,
+            18.5,
+            22.0,
+            25.5,
+            37.0
+        ]
+    },
+    "753": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "755": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "758": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "777": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1541": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "832": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1556": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "843": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1564": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "848": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "852": {
+        "CountOutput_Mean": [
+            3.51063829787234,
+            3.34615384615385,
+            3.2,
+            3.08712121212121,
+            2.94951923076923,
+            2.80373352855051,
+            2.591666666666665,
+            2.426406926406925,
+            2.232057416267945,
+            1.97222222222222
+        ],
+        "MINOR_LINE": [
+            1
+        ]
+    },
+    "1568": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "856": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "874": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "880": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "892": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "896": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "899": {
+        "Del_lines": [
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "CountDeclMethodDefault": [
+            0
+        ]
+    },
+    "1595": {
+        "CountClassCoupled": [
+            3,
+            2,
+            1
+        ]
+    },
+    "1597": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "913": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1598": {
+        "RatioCommentToCode": [
+            3.57,
+            3.89,
+            4.33,
+            4.71,
+            5.22,
+            5.67,
+            6.75,
+            8.75,
+            10.46,
+            156.0
+        ]
+    },
+    "924": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "927": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "929": {
+        "CountOutput_Mean": [
+            1.854166666666665,
+            1.75,
+            1.57142857142857,
+            1.42857142857143,
+            1.2,
+            1.0,
+            0.769230769230769,
+            0.666666666666667,
+            0.375,
+            0.125
+        ],
+        "CountDeclMethodDefault": [
+            0
+        ]
+    },
+    "938": {
+        "CountOutput_Mean": [
+            1.854166666666665,
+            1.75,
+            1.57142857142857,
+            1.42857142857143,
+            1.2,
+            1.0,
+            0.769230769230769,
+            0.666666666666667,
+            0.375,
+            0.125
+        ]
+    },
+    "941": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "944": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "948": {
+        "OWN_COMMIT": [
+            1.0
+        ]
+    },
+    "951": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "27": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "28": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1602": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1605": {
+        "CountOutput_Min": [
+            3.5,
+            5.5,
+            7.5,
+            9.5,
+            11.5,
+            13.5,
+            15.5,
+            18.5,
+            21.0,
+            29.0
+        ],
+        "CountDeclMethodDefault": [
+            0
+        ]
+    },
+    "1607": {
+        "CountDeclClassMethod": [
+            1
+        ]
+    },
+    "1002": {
+        "CountClassCoupled": [
+            0
+        ]
+    },
+    "1006": {
+        "CountClassCoupled": [
+            1,
+            0
+        ]
+    },
+    "1036": {
+        "CountClassCoupled": [
+            0
+        ]
+    }
+}
