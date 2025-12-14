@@ -1,0 +1,24 @@
+__pycache__/
+
+storage/
+
+project_dataset/
+
+# Mac
+.DS_Store
+
+*.zip
+
+.vscode/
+
+.venv
+*.pptx
+
+.env
+
+eval-actionable-guidance-main/Dataset/
+eval-actionable-guidance-main/Models/
+eval-actionable-guidance-main/output/
+eval-actionable-guidance-main/plans/
+eval-actionable-guidance-main/experiments/
+eval-actionable-guidance-main/evaluations/
