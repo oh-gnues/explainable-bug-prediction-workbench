@@ -1,4 +1,4 @@
-
+# 결함 유발 코드 예측의 근거를 설명하는 딥러닝 기반 디버깅 워크벤치 개발
 ## 리포지토리 개요
 | 폴더 | 주요 내용 |
 | --- | --- |
@@ -106,7 +106,5 @@
 | [`undersampling-techniques-for-technical-debt-prediction/readME.txt`](./undersampling-techniques-for-technical-debt-prediction/readME.txt) | 노트북 실행 가이드 및 데이터 설명. | |
  
  ## Acknowledgement
--이 성과는 정부(과학기술정보통신부)의 재원으로 한국연구재단의 지원을 받아 수행된 연구임(NRF-2023R1A2C1006390). 
-이 성과는 정부(과학기술정보통신부)의 재원으로 한국연구재단의 지원을 받아 수행된 연구임(NRF-2023R1A2C1006390).
- 
- This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (NRF-2023R1A2C1006390).
+- 이 성과는 정부(과학기술정보통신부)의 재원으로 한국연구재단의 지원을 받아 수행된 연구임(NRF-2023R1A2C1006390). 
+- This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (NRF-2023R1A2C1006390).
